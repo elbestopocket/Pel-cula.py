@@ -1,5 +1,7 @@
 # Pel-cula.py
 Parcial de programación 2do corte 
+
+
 class Película:
     def __init__(self, código=0, título="", duración=0, director="", prestada=False):
         self.__código = código
