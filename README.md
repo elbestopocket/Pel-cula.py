@@ -2,7 +2,7 @@
 Parcial de programación 2do corte 
 
 
-class Película:
+    class Película:
     def __init__(self, código=0, título="", duración=0, director="", prestada=False):
         self.__código = código
         self.__título = título
